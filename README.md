@@ -3,7 +3,7 @@
 [![Online Service](https://img.shields.io/badge/Online-Service-asrouter.com-blue)](https://asrouter.com)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 
-> 🌏 Language：English | [简体中文](./README_zh.md)
+
 
 ## 📖 Introduction
 API-Hub is a unified API aggregation platform.
