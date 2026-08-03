@@ -23,3 +23,10 @@ This repository stores SDK examples, demo codes and usage guides.
 ```bash
 curl "https://asrouter.com/api/v1/demo" \
 -H "Authorization: Bearer YOUR_API_KEY"
+⚠️ Disclaimer
+API-Hub only provides API forwarding service. All third-party APIs belong to their respective providers.
+Users are fully responsible for all requests, data and business activities using this service.
+Do not use this service for illegal or infringing activities. Violators will be blocked.
+We do not guarantee the long-term availability of upstream third-party interfaces.
+📄 License
+All sample codes in this repo are licensed under the MIT License.
