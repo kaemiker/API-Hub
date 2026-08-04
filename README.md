@@ -30,7 +30,7 @@ Detailed tutorials and parameters: Project Wiki
 Feature suggestions & general discussions → Discussions
 Bug reports & technical issues → Issues
 ⚠️ Disclaimer
-API-Hub only provides API forwarding service. All third-party APIs belong to their respective providers.
-Users are fully responsible for all requests, data and business activities using this service.
-Do not use this service for illegal or infringing activities. Violators will be blocked.
-We do not guarantee the long-term availability of upstream third-party i
+- API-Hub only provides API forwarding service. All third-party APIs belong to their respective providers.
+- Users are fully responsible for all requests, data and business activities using this service.
+- Do not use this service for illegal or infringing activities. Violators will be blocked.
+- We do not guarantee the long-term availability of upstream third-party i
