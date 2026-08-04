@@ -1,6 +1,6 @@
 # AS Router
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[English Document](./README.md) | [📖 完整文档(Wiki)](https://github.com/你的用户名/仓库名/wiki)
+[English Document](./README.md) 
 
 ## 📌 项目介绍
 **AS Router** 一站式API聚合中转平台，统一接口调用多家主流大模型，无需切换不同服务商密钥，简化开发接入流程。
