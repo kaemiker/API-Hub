@@ -25,10 +25,10 @@ curl "https://asrouter.com/api/v1/demo" \
 -H "Authorization: Bearer YOUR_API_KEY"
 ```
 📚 Documentation
-Detailed tutorials and parameters: Project Wiki
+- Detailed tutorials and parameters: Project Wiki
 💬 Discussion & Feedback
-Feature suggestions & general discussions → Discussions
-Bug reports & technical issues → Issues
+- Feature suggestions & general discussions → Discussions
+- Bug reports & technical issues → Issues
 ⚠️ Disclaimer
 - API-Hub only provides API forwarding service. All third-party APIs belong to their respective providers.
 - Users are fully responsible for all requests, data and business activities using this service.
