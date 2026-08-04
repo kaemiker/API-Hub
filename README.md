@@ -18,6 +18,19 @@ This repository stores SDK examples, demo codes and usage guides.
 - Call logs, traffic & usage statistics dashboard
 - Standard HTTP/HTTPS request support
 
+## ✨ Supported Models
+- Moonshot
+- ChatGLM
+- Doubao
+- DeepSeek
+- Qwen
+- Yuanbao (MiniMax)
+
+More AI models will be supported continuously.
+
+## 🎁 New User Offer
+New registered users will receive a **$15 coupon** to offset model inference costs.
+
 ## 🚀 Quick Start Example
 ### cURL
 ```bash
