@@ -9,7 +9,7 @@ API-Hub is a unified API aggregation platform.
 It integrates multiple third-party services, provides standardized request entry, unified authentication and request forwarding, greatly lowering the development cost when calling different external interfaces.
 
 This repository stores SDK examples, demo codes and usage guides.
-[![Online Service](https://img.shields.io/badge/Online-Service-blue?label=Online+Service)](https://asrouter.com)
+**Official Platform: https://asrouter.com**
 
 ## ✨ Core Features
 - Single gateway to aggregate massive third-party APIs
