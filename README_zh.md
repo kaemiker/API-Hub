@@ -2,10 +2,12 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [English Document](./README_EN.md) 
 
-**官方平台：<a href="https://asrouter.com" target="_blank">https://asrouter.com</a>**
 
 ## 📌 项目介绍
 **AS Router** 一站式API聚合中转平台，统一接口调用多家主流大模型，无需切换不同服务商密钥，简化开发接入流程。
+
+本仓库存放 SDK 示例、演示代码以及使用指南。
+**官方平台：[https://asrouter.com](https://asrouter.com)（右键链接在新标签页打开）**
 
 ## ✨ 核心功能
 单网关聚合大量第三方 API 接口
