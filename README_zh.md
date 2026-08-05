@@ -1,6 +1,6 @@
 # AS Router
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[English Document](./README_EN.md) 
+[English Document](./README.md) 
 
 
 ## 📌 项目介绍
