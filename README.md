@@ -2,6 +2,7 @@
 
 [![Online Service](https://img.shields.io/badge/Online-Service-blue?label=Online+Service)](https://asrouter.com)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
+**Official Platform: [https://asrouter.com](https://asrouter.com) (Right‑click to open in new tab)**
 
 > 🌏 Language：English | [简体中文](./README_zh.md)
 > 
